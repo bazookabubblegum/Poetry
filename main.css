@@ -1,0 +1,38 @@
+
+
+.title {
+	color:brown;
+	font-family:Helvetica;
+	font-size:28px;
+	text-transform:Underline;
+	background-color:aqua;
+
+#oomph {
+	font-family:'Lobster' cursive;
+}
+
+#shine {
+	font-family:'Dancing Script', cursive;
+	font-size:18px;
+}
+.circle {
+	text-align:center;
+	border:2px;
+	font-family:Georgia;
+	font-size:24px;
+}
+
+.header {
+	color:black;
+	font-family:Arial;
+	text-transform:Uppercase;
+	background-color:cerulean;
+	font-size:20px;
+}
+
+.aloneatlast {
+	color:green;
+	font-family:'Satisfy' cursive;
+	background-color:orange;
+	font-size:24px;
+}
